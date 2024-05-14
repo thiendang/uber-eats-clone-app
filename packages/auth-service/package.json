@@ -17,7 +17,7 @@
     "url": "git+https://github.com/thiendang/uber-eats-clone-app.git"
   },
   "scripts": {
-    "build": "echo 'hello'"
+    "test": "echo \"Error: run tests from root\""
   },
   "bugs": {
     "url": "https://github.com/thiendang/uber-eats-clone-app/issues"
