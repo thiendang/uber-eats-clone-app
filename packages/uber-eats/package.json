@@ -1,6 +1,6 @@
 {
-  "name": "uber-eats",
-  "version": "0.1.0",
+  "name": "@thiendang/uber-eats",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

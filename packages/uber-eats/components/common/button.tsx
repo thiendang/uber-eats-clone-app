@@ -1,4 +1,3 @@
-
 interface IButtonProps {
   canClick: boolean;
   loading: boolean;
